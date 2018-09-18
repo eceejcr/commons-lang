@@ -28,6 +28,7 @@ import java.util.Objects;
 import java.util.regex.Pattern;
 
 /**
+ * EJCR -NEW
  * <p>Operations on {@link java.lang.String} that are
  * {@code null} safe.</p>
  *
